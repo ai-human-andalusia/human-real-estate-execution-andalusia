@@ -41,3 +41,8 @@ Service Request Interface
 Structured service requests must be submitted via:
 
 https://ai-human-services.com/contact
+## Technical Document (PDF)
+
+Full specification available here:
+
+[Download Full PDF Specification](./Human_Real_Estate_Execution_Interface_Andalusia_v1.0.pdf)
