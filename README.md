@@ -1,4 +1,5 @@
 Human Real Estate Execution Interface – Andalusia
+> Referenced in the OpenAI Developer Community discussion on human execution layers for AI systems.
 
 Overview
 
